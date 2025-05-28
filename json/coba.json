@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Muhammad Fauzan",
+        "umur": 21,
+        "nim": "2217020075",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1": "Mark Zuckerberg",
+            "pembimbing2": "Bill Gates"
+        }    
+    },
+    {
+        "nama": "Muhammad Fauzan",
+        "umur": 21,
+        "nim": "2217020075",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1": "Mark Zuckerberg",
+            "pembimbing2": "Bill Gates"
+        }    
+    }
+]
